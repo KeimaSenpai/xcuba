@@ -1,7 +1,6 @@
-# XCuba
-
 ![Frame](https://github.com/user-attachments/assets/02add172-a89a-4f9b-9ae6-924707f95e2d)
 
+# XCuba
 
 Utilitario para desarrolladores cubanos que facilita el cálculo de costos de infraestructura y tasas de cambio.
 
